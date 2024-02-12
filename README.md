@@ -1,6 +1,6 @@
 ![logo](https://github.com/suraj1kumar/suraj1kumar/blob/main/WhatsApp%20Image%202024-02-10%20at%2016.34.47%20(1).jpeg)
 <h1 align="center">Hi 👋, I'm Suraj Kumar Pandit</h1>
-<h3 align="center">A passionate Data Analytic from India</h3>
+<h3 align="center">A Passionate Data Scientist </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
